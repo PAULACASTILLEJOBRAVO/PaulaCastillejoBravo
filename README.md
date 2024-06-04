@@ -1,8 +1,8 @@
 # ¡Bienvenido a mi perfil de GitHub!
 ## Sobre mí
 
-Mi nombre es Paula Castillejo Bravo.
-soy Estudiante de Ingeniería Informática​ en la Universidad de Castilla-La Mancha​.
+- Mi nombre es Paula Castillejo Bravo.
+- Soy Estudiante de Ingeniería Informática​ en la Universidad de Castilla-La Mancha​.
 
 ## Conocimientos
 
