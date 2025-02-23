@@ -11,9 +11,6 @@
 
 ## Estudios
 
-🌱  Actualmente estoy aprendiendo...
-
-
 ### Front-End
 
 <div align="center">
@@ -26,7 +23,9 @@
 
 <div align="center">
 
-[![MONGODB](https://skillicons.dev/icons?i=mongodb)](https://mongodb.com) &nbsp; [![EXPRESSJS](https://skillicons.dev/icons?i=express&theme=light)](https://expressjs.com/)  &nbsp; [![NODEJS](https://skillicons.dev/icons?i=nodejs&theme=light)](https://nodejs.org/en) &nbsp; [![NPM](https://skillicons.dev/icons?i=npm&theme=light)](https://www.npmjs.com/) &nbsp; [![PYTHON](https://skillicons.dev/icons?i=py&theme=light)](https://python.org/) &nbsp; [![ARDUINO](https://skillicons.dev/icons?i=arduino)](https://www.arduino.cc/) 
+[![MONGODB](https://skillicons.dev/icons?i=mongodb)](https://mongodb.com) &nbsp; [![EXPRESSJS](https://skillicons.dev/icons?i=express&theme=light)](https://expressjs.com/)  &nbsp; [![NODEJS](https://skillicons.dev/icons?i=nodejs&theme=light)](https://nodejs.org/en) &nbsp; [![NPM](https://skillicons.dev/icons?i=npm&theme=light)](https://www.npmjs.com/) 
+[![PYTHON](https://skillicons.dev/icons?i=py&theme=light)](https://python.org/) &nbsp; [![ARDUINO](https://skillicons.dev/icons?i=arduino)](https://www.arduino.cc/)  &nbsp; [![JAVA](https://skillicons.dev/icons?i=java&theme=light)](https://java.com/es/) &nbsp; [![MYSQL](https://skillicons.dev/icons?i=mysql&theme=light)](https://www.mysql.com/)
+[![C](https://skillicons.dev/icons?i=c)](https://www.w3schools.com/c/)
 
 </div >
 
@@ -34,7 +33,7 @@
 
 <div align="center">
 
-[![VSCODE](https://skillicons.dev/icons?i=vscode&theme=light)](https://www.vscode.com/) &nbsp; [![GITHUB](https://skillicons.dev/icons?i=github&theme=light)](https://www.github.com/) 
+[![VSCODE](https://skillicons.dev/icons?i=vscode&theme=light)](https://www.vscode.com/) &nbsp; [![GITHUB](https://skillicons.dev/icons?i=github&theme=light)](https://www.github.com/)  &nbsp; [![ECLIPSE](https://skillicons.dev/icons?i=eclipse&theme=light)](https://www.eclipse.org/) &nbsp; [![VSCODE](https://skillicons.dev/icons?i=visualstudio&theme=light)](https://visualstudio.microsoft.com/es/)
 
 </div>
 
